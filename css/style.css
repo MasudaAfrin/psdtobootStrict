@@ -380,3 +380,9 @@ footer ul li a:hover{
 	/*footer*/
 	
   }
+
+  @media only screen and (max-width: 444px){
+	.gallery ul li{
+		padding: 2px;
+	}
+  }
